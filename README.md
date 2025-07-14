@@ -17,7 +17,6 @@
 - 5 jumpers fêmea-fêmea
 - 1 copo com água
 - 1 conta-gotas
-- Software Arduino IDE
  
 ## Software:
 
