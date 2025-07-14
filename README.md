@@ -1,21 +1,23 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=86827f&height=70&section=header"/>
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=35&pause=1000&color=b9b5b4&width=800&lines=-+Robô+Ultrassônico-" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=35&pause=1000&color=b9b5b4&width=800&lines=-+Sensor+de+Chuva-" />
 </p>
 
 ## Materiais: 
 
 - 1 Placa Arduíno Uno R3
 - 1 Cabo USB
-- 1 Sensor de Distância Ultrassônico HC-SR04
-- 1 Motor Shield L293D Driver Ponte H para Arduino
-- 1 Kit Chassi 2WD Robô para Arduino
-- 4 Jumpers Fêmea-Fêmea
-- 1 Bateria 9V ou compartimento com baterias
-- 1 chave de fenda pequena
-- 1 Suporte para o sensor ultrassônico (papelão, plástico ou
-fita adesiva)
+- 1 placa protoboard
+- 1 módulo de sensor de chuva
+- 13 jumpers macho-macho
+- 3 led's verdes 5mm
+- 3 led's amarelos 5mm
+- 3 led's vermelhos 5mm
+- 5 jumpers fêmea-fêmea
+- 1 copo com água
+- 1 conta-gotas
+- Software Arduino IDE
  
 ## Software:
 
@@ -23,6 +25,6 @@ fita adesiva)
 
 ## Montagem do circuito:
 
-![](img/circuito.jpg)
+![](img/circuito.PNG)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=86827f&height=90&section=footer"/>
